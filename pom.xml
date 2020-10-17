@@ -30,7 +30,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-function-web</artifactId>
+			<artifactId>spring-cloud-starter-function-webflux</artifactId>
 			<version>3.0.10.RELEASE</version>
 		</dependency>
 
